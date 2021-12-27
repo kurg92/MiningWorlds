@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MiningWorlds/static/css/main.78721740.chunk.css",
+    "main.js": "/MiningWorlds/static/js/main.16ae71eb.chunk.js",
+    "main.js.map": "/MiningWorlds/static/js/main.16ae71eb.chunk.js.map",
+    "runtime-main.js": "/MiningWorlds/static/js/runtime-main.40584830.js",
+    "runtime-main.js.map": "/MiningWorlds/static/js/runtime-main.40584830.js.map",
+    "static/js/2.13107fd6.chunk.js": "/MiningWorlds/static/js/2.13107fd6.chunk.js",
+    "static/js/2.13107fd6.chunk.js.map": "/MiningWorlds/static/js/2.13107fd6.chunk.js.map",
+    "static/js/3.1e774df3.chunk.js": "/MiningWorlds/static/js/3.1e774df3.chunk.js",
+    "static/js/3.1e774df3.chunk.js.map": "/MiningWorlds/static/js/3.1e774df3.chunk.js.map",
+    "index.html": "/MiningWorlds/index.html",
+    "static/css/main.78721740.chunk.css.map": "/MiningWorlds/static/css/main.78721740.chunk.css.map",
+    "static/js/2.13107fd6.chunk.js.LICENSE.txt": "/MiningWorlds/static/js/2.13107fd6.chunk.js.LICENSE.txt",
+    "static/media/reset.css": "/MiningWorlds/static/media/font.617a0a92.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40584830.js",
+    "static/js/2.13107fd6.chunk.js",
+    "static/css/main.78721740.chunk.css",
+    "static/js/main.16ae71eb.chunk.js"
+  ]
+}
